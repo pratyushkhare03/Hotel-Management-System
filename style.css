@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    width: 100vw;
+    width: 100v;
     /* background-image: linear-gradient(to bottom right, rgb(255, 102, 0), rgb(255, 115, 0), rgb(255, 153, 0)); */
     /* background-color: #DFCFBE; */
     background-color: #FFBE98;
@@ -12,9 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(images.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
+
 }
 .cardbox{
     height: 350px;
